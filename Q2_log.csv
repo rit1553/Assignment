@@ -1,0 +1,110 @@
+Exchanged Gifts Data:
+Couples :60075023,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60615040,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60145027,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60365027,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60045009,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60055009,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60355031,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60195039,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60385039,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60675023,Exchanged  Gifts:1,Price :450,Value :600
+Couples :60335035,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60455030,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :60665004,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60085053,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60395001,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :60035004,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60605029,Exchanged  Gifts:1,Price :450,Value :600
+Couples :60655005,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60635008,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :60025055,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60125054,Exchanged  Gifts:1,Price :450,Value :600
+Couples :60665056,Exchanged  Gifts:1,Price :450,Value :600
+Couples :60645003,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :60305032,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60465007,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60415020,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60695033,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60175056,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60315024,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60445026,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :60185028,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :60405008,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :60105024,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60065005,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :60685057,Exchanged  Gifts:2,Price :900,Value :1200
+35 are most happy.
+TimeStamp,Couple_id,Happiness
+Time :2017-02-27 00:48:21.963,60075023,Happiness : 3.7730203009299397E260
+Time :2017-02-27 00:48:21.963,60615040,Happiness : 1.3420848092419306E193
+Time :2017-02-27 00:48:21.963,60145027,Happiness : 7.519427988093572E184
+Time :2017-02-27 00:48:21.963,60365027,Happiness : 3.759713994046786E184
+Time :2017-02-27 00:48:21.963,60045009,Happiness : 1.1501052352020995E178
+Time :2017-02-27 00:48:21.963,60055009,Happiness : 1.1501052352020995E178
+Time :2017-02-27 00:48:21.963,60355031,Happiness : 5.221469689764144E173
+Time :2017-02-27 00:48:21.963,60195039,Happiness : 5.221469689764144E173
+Time :2017-02-27 00:48:21.963,60385039,Happiness : 5.221469689764144E173
+Time :2017-02-27 00:48:21.963,60675023,Happiness : 1.3937095806663797E65
+Time :2017-02-27 00:48:21.963,60335035,Happiness : 1.3041808783936323E52
+Time :2017-02-27 00:48:21.963,60455030,Happiness : 5300.0
+Time :2017-02-27 00:48:21.963,60665004,Happiness : 3244.0
+Time :2017-02-27 00:48:21.963,60085053,Happiness : 3000.0
+Time :2017-02-27 00:48:21.963,60395001,Happiness : 2573.0
+Time :2017-02-27 00:48:21.963,60035004,Happiness : 1721.0
+Time :2017-02-27 00:48:21.963,60605029,Happiness : 1200.0
+Time :2017-02-27 00:48:21.963,60655005,Happiness : 423.4539295920577
+Time :2017-02-27 00:48:21.963,60635008,Happiness : 398.60205999132796
+Time :2017-02-27 00:48:21.963,60025055,Happiness : 303.4471580313422
+Time :2017-02-27 00:48:21.963,60125054,Happiness : 203.10209052551184
+Time :2017-02-27 00:48:21.963,60665056,Happiness : 116.16136800223498
+Time :2017-02-27 00:48:21.963,60645003,Happiness : 98.59670702968144
+Time :2017-02-27 00:48:21.963,60305032,Happiness : 62.44715803134222
+Time :2017-02-27 00:48:21.963,60465007,Happiness : 53.414973347970815
+Time :2017-02-27 00:48:21.963,60415020,Happiness : 53.380211241711606
+Time :2017-02-27 00:48:21.963,60695033,Happiness : 53.380211241711606
+Time :2017-02-27 00:48:21.963,60175056,Happiness : 50.49136169383427
+Time :2017-02-27 00:48:21.963,60315024,Happiness : 46.49136169383427
+Time :2017-02-27 00:48:21.963,60445026,Happiness : 7.236096193424185
+Time :2017-02-27 00:48:21.963,60185028,Happiness : 7.214910046429337
+Time :2017-02-27 00:48:21.963,60405008,Happiness : 7.204119982655925
+Time :2017-02-27 00:48:21.963,60105024,Happiness : 6.982723387668545
+Time :2017-02-27 00:48:21.963,60065005,Happiness : 6.907859184115457
+Time :2017-02-27 00:48:21.963,60685057,Happiness : 6.894316062684439
+35 are most compatible.
+TimeStamp,Couple_id,Compatibility
+Time :2017-02-27 00:48:21.963,60175056,Compatibility :727.0
+Time :2017-02-27 00:48:21.963,60105024,Compatibility :713.0
+Time :2017-02-27 00:48:21.963,60605029,Compatibility :686.0
+Time :2017-02-27 00:48:21.963,60035004,Compatibility :630.0
+Time :2017-02-27 00:48:21.963,60315024,Compatibility :624.0
+Time :2017-02-27 00:48:21.963,60675023,Compatibility :612.0
+Time :2017-02-27 00:48:21.963,60455030,Compatibility :530.0
+Time :2017-02-27 00:48:21.963,60065005,Compatibility :528.0
+Time :2017-02-27 00:48:21.963,60685057,Compatibility :485.0
+Time :2017-02-27 00:48:21.963,60075023,Compatibility :476.0
+Time :2017-02-27 00:48:21.963,60385039,Compatibility :464.0
+Time :2017-02-27 00:48:21.963,60055009,Compatibility :447.0
+Time :2017-02-27 00:48:21.963,60355031,Compatibility :441.0
+Time :2017-02-27 00:48:21.963,60045009,Compatibility :435.0
+Time :2017-02-27 00:48:21.963,60195039,Compatibility :372.0
+Time :2017-02-27 00:48:21.963,60665004,Compatibility :316.0
+Time :2017-02-27 00:48:21.963,60125054,Compatibility :298.0
+Time :2017-02-27 00:48:21.963,60085053,Compatibility :281.0
+Time :2017-02-27 00:48:21.963,60305032,Compatibility :251.0
+Time :2017-02-27 00:48:21.963,60365027,Compatibility :235.0
+Time :2017-02-27 00:48:21.963,60465007,Compatibility :228.0
+Time :2017-02-27 00:48:21.963,60665056,Compatibility :212.0
+Time :2017-02-27 00:48:21.963,60445026,Compatibility :194.0
+Time :2017-02-27 00:48:21.963,60145027,Compatibility :166.0
+Time :2017-02-27 00:48:21.963,60185028,Compatibility :147.0
+Time :2017-02-27 00:48:21.963,60025055,Compatibility :127.0
+Time :2017-02-27 00:48:21.963,60415020,Compatibility :116.0
+Time :2017-02-27 00:48:21.963,60615040,Compatibility :93.0
+Time :2017-02-27 00:48:21.963,60635008,Compatibility :80.0
+Time :2017-02-27 00:48:21.963,60395001,Compatibility :79.0
+Time :2017-02-27 00:48:21.963,60655005,Compatibility :67.0
+Time :2017-02-27 00:48:21.963,60335035,Compatibility :64.0
+Time :2017-02-27 00:48:21.963,60405008,Compatibility :62.0
+Time :2017-02-27 00:48:21.963,60695033,Compatibility :58.0
+Time :2017-02-27 00:48:21.963,60645003,Compatibility :33.0
